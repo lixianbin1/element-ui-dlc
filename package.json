@@ -1,0 +1,27 @@
+{
+  "name": "element-ui-dlc",
+  "version": "0.1.0",
+  "description": "A supplementary toolkit for elementui",
+  "main": "element-ui-dlc.js",
+  "keywords": [
+    "工具",
+    "UI补充",
+    "tools",
+    "javascript",
+    "element",
+    "element-ui",
+    "element-ui-dlc"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lixianbin1/element-ui-dlc.git"
+  },
+  "homepage": "https://github.com/lixianbin1/element-ui-dlc#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "element-ui": "^2.15.6"
+  },
+  "author": "lixianbin1",
+  "license": "ISC"
+}
