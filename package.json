@@ -13,7 +13,7 @@
     "element-ui-dlc"
   ],
   "scripts": {
-    "min":"uglifyjs element-ui-dlc.js -c -m -o element-ui-dlc.min.js",
+    "min":"npx uglifyjs element-ui-dlc.js -c -m -o element-ui-dlc.min.js",
     "public": "npm publish --access public",
     "push": "npm run min && npm run public"
   },
