@@ -1,6 +1,6 @@
 {
   "name": "element-ui-dlc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A supplementary toolkit for elementui",
   "main": "element-ui-dlc.min.js",
   "keywords": [
