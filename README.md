@@ -3,9 +3,9 @@
 一个集成了 Element-Ui 插件的补充UI组件，它作为 Element-Ui 的补充内容；你可以像 Element-Ui 一样使用它
 
 <p align="center">
-  <a href="https://npmcharts.com/compare/@lixianbin1/element-ui-dlc?minimal=true"><img src="https://img.shields.io/npm/dm/@lixianbin1/element-ui-dlc.svg?sanitize=true" alt="Downloads"></a>
-  <a href="https://www.npmjs.com/package/@lixianbin1/element-ui-dlc"><img src="https://img.shields.io/npm/v/@lixianbin1/element-ui-dlc.svg?sanitize=true" alt="Version"></a>
-  <a href="https://www.npmjs.com/package/@lixianbin1/element-ui-dlc"><img src="https://img.shields.io/npm/l/@lixianbin1/element-ui-dlc.svg?sanitize=true" alt="License"></a>
+  <a href="https://npmcharts.com/compare/element-ui-dlc?minimal=true"><img src="https://img.shields.io/npm/dm/element-ui-dlc.svg?sanitize=true" alt="Downloads"></a>
+  <a href="https://www.npmjs.com/package/element-ui-dlc"><img src="https://img.shields.io/npm/v/element-ui-dlc.svg?sanitize=true" alt="Version"></a>
+  <a href="https://www.npmjs.com/package/element-ui-dlc"><img src="https://img.shields.io/npm/l/element-ui-dlc.svg?sanitize=true" alt="License"></a>
 </p>
 
 [En](./README.md)
