@@ -2,7 +2,7 @@
   "name": "element-ui-dlc",
   "version": "0.1.0",
   "description": "A supplementary toolkit for elementui",
-  "main": "element-ui-dlc.js",
+  "main": "element-ui-dlc.min.js",
   "keywords": [
     "工具",
     "UI补充",
@@ -12,7 +12,11 @@
     "element-ui",
     "element-ui-dlc"
   ],
-  "scripts": {},
+  "scripts": {
+    "min":"uglifyjs element-ui-dlc.js -c -m -o element-ui-dlc.min.js",
+    "public": "npm publish --access public",
+    "push": "npm run min && npm run public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lixianbin1/element-ui-dlc.git"

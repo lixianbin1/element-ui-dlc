@@ -1,34 +1,55 @@
-# toolBox
+# element-ui-dlc
 
-A integrate common functions or unusual function plug-in Libraries，I will integrate some common functions, my own functions, and expect them to become bigger
+A supplementary UI component integrating element UI plug-in, which serves as the supplementary content of element UI; You can use it like element UI
 
 <p align="center">
-  <a href="https://npmcharts.com/compare/@lixianbin1/toolbox?minimal=true"><img src="https://img.shields.io/npm/dm/@lixianbin1/toolbox.svg?sanitize=true" alt="Downloads"></a>
-  <a href="https://www.npmjs.com/package/@lixianbin1/toolbox"><img src="https://img.shields.io/npm/v/@lixianbin1/toolbox.svg?sanitize=true" alt="Version"></a>
-  <a href="https://www.npmjs.com/package/@lixianbin1/toolbox"><img src="https://img.shields.io/npm/l/@lixianbin1/toolbox.svg?sanitize=true" alt="License"></a>
+
+<a href=" https://npmcharts.com/compare/ @lixianbin1/element-ui-dlc?minimal=true"><img src=" https://img.shields.io/npm/dm/ @lixianbin1/element-ui-dlc.svg?sanitize=true" alt="Downloads"></a>
+
+<a href=" https://www.npmjs.com/package/ @lixianbin1/element-ui-dlc"><img src=" https://img.shields.io/npm/v/ @lixianbin1/element-ui-dlc.svg?sanitize=true" alt="Version"></a>
+
+<a href=" https://www.npmjs.com/package/ @lixianbin1/element-ui-dlc"><img src=" https://img.shields.io/npm/l/ @lixianbin1/element-ui-dlc.svg?sanitize=true" alt="License"></a>
+
 </p>
 
-[中文](./README.md)
+[En](./README.md)
 
-### Document
+###Documentation
 
-Document ：https://lixianbin1.github.io/toolBox/
+Elementui document: https://element.eleme.cn/#/zh -CN/
 
-### installation
+Supplementary documents: https://lixianbin1.github.io/element-ui-dlc/
+
+###Installation
 
 ```sh
-yarn add @lixianbin1/toolbox  # npm install @lixianbin1/toolbox
+
+yarn add element-ui-dlc # npm install element-ui-dlc
+
 ```
 
-### Getting started
+###Use
 
 ```js
-import { deepClone } from "@lixianbin1/toolbox"
-let obj={
-  name:"myme",
-  children:{
-    name:"jack"
-  },
-}
-let newObj=deepClone(obj)
+
+import Vue from 'vue';
+
+import ElementUiDLC from 'element-ui-dlc';
+
+Vue.use(ElementUiDLC)
+
+```
+
+```html
+
+<template>
+
+<div id="app">
+
+< El button round > cancel < / El button >
+
+</div>
+
+<template>
+
 ```
