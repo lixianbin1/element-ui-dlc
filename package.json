@@ -13,9 +13,9 @@
     "element-ui-dlc"
   ],
   "scripts": {
-    "min":"npx uglifyjs element-ui-dlc.js -c -m -o element-ui-dlc.min.js",
-    "public": "npm publish --access public",
-    "push": "npm run min && npm run public"
+    "push": "sh deploy.sh",
+    "docs:dev": "npx vuepress dev docs",
+    "docs:build": "npx vuepress build docs"
   },
   "repository": {
     "type": "git",
