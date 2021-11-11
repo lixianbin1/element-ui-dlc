@@ -1,6 +1,6 @@
 # element-ui-dlc
 
-A supplementary UI component integrating element UI plug-in, which serves as the supplementary content of element UI; You can use it like element UI
+A supplementary UI component integrating element UI plug-in, which serves as the supplementary content of element UI; You can use it like element UI,Because it introduces Eelement UI, you can use all components of element UI without introducing element UI;
 
 <p align="center">
 

@@ -1,6 +1,6 @@
 # element-ui-dlc
 
-一个集成了 Element-Ui 插件的补充UI组件，它作为 Element-Ui 的补充内容；你可以像 Element-Ui 一样使用它
+一个集成了 Element-Ui 插件的补充UI组件，它作为 Element-Ui 的补充内容；你可以像 Element-Ui 一样使用它,由于它引入了 Eelement-Ui，你无需再引入 Eleement-ui 即可使用 Element-Ui 的所有组件;
 
 <p align="center">
   <a href="https://npmcharts.com/compare/element-ui-dlc?minimal=true"><img src="https://img.shields.io/npm/dm/element-ui-dlc.svg?sanitize=true" alt="Downloads"></a>
