@@ -8,7 +8,7 @@
   <a href="https://www.npmjs.com/package/element-ui-dlc"><img src="https://img.shields.io/npm/l/element-ui-dlc.svg?sanitize=true" alt="License"></a>
 </p>
 
-[En](./README.md)
+[En](./README_en.md)
 
 ### 文档
 
